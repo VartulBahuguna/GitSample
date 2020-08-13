@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Second Commit");
         System.out.println("Master branch commit 5");
-
+        System.out.println("Master branch merge 2");
 
         System.out.println("Temp commit 2");
 
