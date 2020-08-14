@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Temp commit 2");
 
         System.out.println("Master commit 7");
+        System.out.println("Master commit 8");
 
     }
 }
